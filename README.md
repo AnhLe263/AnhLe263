@@ -5,7 +5,7 @@
 ### Geant4 Collaborator • Geant4-DNA Developer • Nuclear Physicist • Scientific Computing Researcher
 
 <p align="center">
-  <img src="./banner.png" />
+  <img src="./0815b791-78e6-45a3-81fa-b5bca153ee0f.png" />
 </p>
 
 <p align="center">
