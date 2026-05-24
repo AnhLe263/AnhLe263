@@ -126,7 +126,7 @@ Advanced tools for:
 
 # Philosophy
 
-> “Science progresses through rigorous thinking, reproducible methods, and open collaboration.”
+> “Scientific progress is built on curiosity, rigor, and reproducibility.”
 
 ---
 
