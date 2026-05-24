@@ -125,31 +125,9 @@ Advanced tools for:
 
 ---
 
-# GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AnhLe263&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhLe263&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnhLe263&theme=tokyo-night&hide_border=true" width="95%"/>
-
-</div>
-
----
-
 # Philosophy
 
-> “Scientific computing should be reproducible, transparent, and physically meaningful.”
+> “Science progresses through rigorous thinking, reproducible methods, and open collaboration.”
 
 ---
 
@@ -161,16 +139,3 @@ Advanced tools for:
   https://geant4.web.cern.ch/collaboration/working_groups/novextExamples/
 
 ---
-
-# Current Focus
-
-- Geant4-DNA development
-- Monte Carlo radiation transport
-- Nuclar physics applicaitons
-- Medical DNA simulation, and Radiobiology modelling
-- Scientific software engineering
-- High-performance simulation workflows
-- Accelerator physics research
-
----
-
