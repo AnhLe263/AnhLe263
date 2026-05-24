@@ -26,7 +26,6 @@ My work focuses on:
 - Monte Carlo radiation transport simulation
 - Nuclear physics and ít applications
 - Scientific computing workflows
-- Accelerator physics applications
 - High-performance scientific simulation
 
 ---
