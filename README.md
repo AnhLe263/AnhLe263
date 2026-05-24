@@ -52,8 +52,6 @@ Areas of contribution include:
 - Radiation transport applications
 - Monte Carlo simulation development
 - Scientific computing workflows
-- Advanced Geant4 geometry and tracking systems
-
 ---
 
 # Research Interests
