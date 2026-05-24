@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Official+Geant4+Collaborator;Geant4-DNA+Developer;Nuclear+Physicist;Scientific+Computing+Researcher;Monte+Carlo+Simulation+Engineer;Accelerator+Physics+Researcher" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Official+Geant4+Collaborator;Geant4/Geant4-DNA+Developer;Nuclear+Physicist;Scientific+Computing+Researcher;Monte+Carlo+Simulation+Engineer" />
 </p>
 
 </div>
